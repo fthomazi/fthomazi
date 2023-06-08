@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Fernanda Hauenstein Thomazi
 
-- 🧮 Hoje trabalho com BI e consulta BD Oracle
+- 🧮 Hoje trabalho com Análise de dados no CRM. 
 - 📖 Estudando HTML, CSS, Javascript e C#.
 - 🎓 Graduada em Sistemas de Informação
 ##
